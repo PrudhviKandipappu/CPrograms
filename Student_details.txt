@@ -1,0 +1,15 @@
+	Student 1 details
+Student Name: Prudhvi
+Student Pin No: 20635-CM-019
+Location: Yellamanchili
+Mobile no: 942682168
+	Student 2 details
+Student Name: Manikanta
+Student Pin No: 20635-CM-061
+Location: Anakapalli
+Mobile no: 942682168
+	Student 3 details
+Student Name: Rama
+Student Pin No: 20635-CM-063
+Location: Chepurapalli
+Mobile no: 942682168
